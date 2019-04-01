@@ -16,7 +16,7 @@ The main goal with Vanir-0x0 is to develop eco friendly exploits.
 - [ ]  Use dynamic strings
 
 
-´´´js
+```javascript
 
 Javascript example
 
