@@ -16,7 +16,7 @@ The main goal with Vanir-0x0 is to develop eco friendly exploits.
 - [ ]  Remove ghost code
 - [ ]  Limit file to 1mb
 - [ ]  Use dynamic strings
-- [ ]  Develop straw shell(s): ~30kb
+- [ ]  Develop straw shell(s): ~30kb /file
 - [ ]  Develop dynoFile: ~100LOC(Lines Of Code)
 
 
