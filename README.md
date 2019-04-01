@@ -2,18 +2,27 @@
 
 ## Advanced Eco friendly Exploits for CyberTesting and development
 
-# Why ?
+## Why ?
 The main goal with Vanir-0x0 is to develop eco friendly exploits.
 
-# CENE = CyberEcoNetExploits challenges
+
+
+## CENE = CyberEcoNetExploits challenges
 
 - [ ]  Limit the current energy you are using to 30%
 - [ ]  Reuse your code
-- [ ]  Limit the exploits with down to 50%
+- [ ]  Limit the exploit codes down to 50%
 - [ ]  Use code accuracy as much as possible
 - [ ]  Remove ghost code
 - [ ]  Limit file to 1mb
 - [ ]  Use dynamic strings
+- [ ]  Develop straw shell(s): ~30kb
+- [ ]  Develop dynoFile: ~100LOC(Lines Of Code)
+
+
+
+
+
 
 
 ```javascript
